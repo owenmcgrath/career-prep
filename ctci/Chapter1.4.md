@@ -1,4 +1,4 @@
-# CTCI Chapter 4
+# CTCI Chapter 1.4
 ## Getting The Right Experience
 - Do things that build resume!
   - Do more difficult coding problems at work
